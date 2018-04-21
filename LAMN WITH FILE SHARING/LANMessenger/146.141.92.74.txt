@@ -1,0 +1,16 @@
+Sat Apr 30 19:11:44 GMT+02:00 2016
+ me: is it working?
+Fri May 06 01:39:58 CAT 2016
+ me: hey
+Fri May 06 01:40:16 CAT 2016
+ me: what is up
+Fri May 06 01:42:57 CAT 2016
+ me: hey
+Fri May 06 02:11:45 CAT 2016
+I : Fri May 06 02:11:45 CAT 2016
+I : dda
+
+Fri May 06 02:11:45 CAT 2016
+ me: dda
+Fri May 06 03:44:48 CAT 2016
+ me: adadaw
